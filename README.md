@@ -1,3 +1,3 @@
-Hey there! This is just me teaching myself PHP by doing Codeforces challenges.
+Hey there! This is just me teaching myself PHP by doing Codeforces ( https://codeforces.com/ ) challenges.
 
-https://codeforces.com/
+Each branch is a new contest/challenge.
